@@ -4,11 +4,25 @@ html {
 	background-color: #f05c14;
 	/*
 		Black: #000000	#000
-		Whtie: #ffffff	#fff
+		White: #ffffff	#fff
 		Red: #ff0000		#f00
 		Blue: #0000ff		#00f
 		Green: #00ff00	#0f0
 	*/
 
-	color: #ffffff;
+	color: mediumblue;
+}
+
+h1 {
+		color: midnightblue;
+		font-weight: normal;
+		font-size: 5rem;
+		line-height: 1.5;
+	}
+
+p {
+	font-style: italic;/* italic, normal*/
+	text-decoration: underline; /* underline, none, line-through*/
+	text-align: center; /* left, center, right, justify*/
+	font-family: ariel,sans-serif;
 }
