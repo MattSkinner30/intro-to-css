@@ -10,7 +10,7 @@ html {
 		Green: #00ff00	#0f0
 	*/
 
-	color: mediumblue;
+	color: midnightblue;
 }
 
 h1 {
@@ -28,4 +28,9 @@ p {
 	text-decoration: underline; /* underline, none, line-through*/
 	text-align: center; /* left, center, right, justify*/
 	font-family: ariel,sans-serif;
+}
+
+ol{
+	list-style-type: none; /* decimal, circle, lower-alpha, lower-roman, upper-alpha, upper-roman, square, disk, lower-greek, none*/
+	padding: 0;
 }
