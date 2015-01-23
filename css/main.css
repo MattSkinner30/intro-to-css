@@ -1,0 +1,14 @@
+/* This is a CSS comment */
+
+html {
+	background-color: #f05c14;
+	/*
+		Black: #000000	#000
+		Whtie: #ffffff	#fff
+		Red: #ff0000		#f00
+		Blue: #0000ff		#00f
+		Green: #00ff00	#0f0
+	*/
+
+	color: #ffffff;
+}
